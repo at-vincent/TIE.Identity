@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "YcrC3+5XpNXxJlbyZ6h+4bnqLhyuHyyRz+GiczA4Keo=",
+  "Source": "TIE.Identity.API",
+  "BasePath": "_content/TIE.Identity.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

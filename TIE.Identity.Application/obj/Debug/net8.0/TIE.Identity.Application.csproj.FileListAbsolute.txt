@@ -1,0 +1,17 @@
+D:\OneDrive\Repositories\TIE\TIE.Identity\TIE.Identity.Application\bin\Debug\net8.0\TIE.Identity.Application.deps.json
+D:\OneDrive\Repositories\TIE\TIE.Identity\TIE.Identity.Application\bin\Debug\net8.0\TIE.Identity.Application.dll
+D:\OneDrive\Repositories\TIE\TIE.Identity\TIE.Identity.Application\bin\Debug\net8.0\TIE.Identity.Application.pdb
+D:\OneDrive\Repositories\TIE\TIE.Identity\TIE.Identity.Application\bin\Debug\net8.0\TIE.Identity.Contracts.dll
+D:\OneDrive\Repositories\TIE\TIE.Identity\TIE.Identity.Application\bin\Debug\net8.0\TIE.Identity.Domain.dll
+D:\OneDrive\Repositories\TIE\TIE.Identity\TIE.Identity.Application\bin\Debug\net8.0\TIE.Identity.Contracts.pdb
+D:\OneDrive\Repositories\TIE\TIE.Identity\TIE.Identity.Application\bin\Debug\net8.0\TIE.Identity.Domain.pdb
+D:\OneDrive\Repositories\TIE\TIE.Identity\TIE.Identity.Application\obj\Debug\net8.0\TIE.Identity.Application.csproj.AssemblyReference.cache
+D:\OneDrive\Repositories\TIE\TIE.Identity\TIE.Identity.Application\obj\Debug\net8.0\TIE.Identity.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Repositories\TIE\TIE.Identity\TIE.Identity.Application\obj\Debug\net8.0\TIE.Identity.Application.AssemblyInfoInputs.cache
+D:\OneDrive\Repositories\TIE\TIE.Identity\TIE.Identity.Application\obj\Debug\net8.0\TIE.Identity.Application.AssemblyInfo.cs
+D:\OneDrive\Repositories\TIE\TIE.Identity\TIE.Identity.Application\obj\Debug\net8.0\TIE.Identity.Application.csproj.CoreCompileInputs.cache
+D:\OneDrive\Repositories\TIE\TIE.Identity\TIE.Identity.Application\obj\Debug\net8.0\TIE.Iden.8233C004.Up2Date
+D:\OneDrive\Repositories\TIE\TIE.Identity\TIE.Identity.Application\obj\Debug\net8.0\TIE.Identity.Application.dll
+D:\OneDrive\Repositories\TIE\TIE.Identity\TIE.Identity.Application\obj\Debug\net8.0\refint\TIE.Identity.Application.dll
+D:\OneDrive\Repositories\TIE\TIE.Identity\TIE.Identity.Application\obj\Debug\net8.0\TIE.Identity.Application.pdb
+D:\OneDrive\Repositories\TIE\TIE.Identity\TIE.Identity.Application\obj\Debug\net8.0\ref\TIE.Identity.Application.dll

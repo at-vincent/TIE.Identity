@@ -1,0 +1,11 @@
+D:\OneDrive\Repositories\TIE\TIE.Identity\TIE.Identity.Domain\bin\Debug\net8.0\TIE.Identity.Domain.deps.json
+D:\OneDrive\Repositories\TIE\TIE.Identity\TIE.Identity.Domain\bin\Debug\net8.0\TIE.Identity.Domain.dll
+D:\OneDrive\Repositories\TIE\TIE.Identity\TIE.Identity.Domain\bin\Debug\net8.0\TIE.Identity.Domain.pdb
+D:\OneDrive\Repositories\TIE\TIE.Identity\TIE.Identity.Domain\obj\Debug\net8.0\TIE.Identity.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Repositories\TIE\TIE.Identity\TIE.Identity.Domain\obj\Debug\net8.0\TIE.Identity.Domain.AssemblyInfoInputs.cache
+D:\OneDrive\Repositories\TIE\TIE.Identity\TIE.Identity.Domain\obj\Debug\net8.0\TIE.Identity.Domain.AssemblyInfo.cs
+D:\OneDrive\Repositories\TIE\TIE.Identity\TIE.Identity.Domain\obj\Debug\net8.0\TIE.Identity.Domain.csproj.CoreCompileInputs.cache
+D:\OneDrive\Repositories\TIE\TIE.Identity\TIE.Identity.Domain\obj\Debug\net8.0\TIE.Identity.Domain.dll
+D:\OneDrive\Repositories\TIE\TIE.Identity\TIE.Identity.Domain\obj\Debug\net8.0\refint\TIE.Identity.Domain.dll
+D:\OneDrive\Repositories\TIE\TIE.Identity\TIE.Identity.Domain\obj\Debug\net8.0\TIE.Identity.Domain.pdb
+D:\OneDrive\Repositories\TIE\TIE.Identity\TIE.Identity.Domain\obj\Debug\net8.0\ref\TIE.Identity.Domain.dll

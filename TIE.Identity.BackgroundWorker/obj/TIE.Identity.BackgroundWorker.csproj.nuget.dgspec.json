@@ -1,0 +1,459 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\OneDrive\\Repositories\\TIE\\TIE.Identity\\TIE.Identity.BackgroundWorker\\TIE.Identity.BackgroundWorker.csproj": {}
+  },
+  "projects": {
+    "D:\\OneDrive\\Repositories\\TIE\\TIE.Identity\\TIE.Identity.Application\\TIE.Identity.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\OneDrive\\Repositories\\TIE\\TIE.Identity\\TIE.Identity.Application\\TIE.Identity.Application.csproj",
+        "projectName": "TIE.Identity.Application",
+        "projectPath": "D:\\OneDrive\\Repositories\\TIE\\TIE.Identity\\TIE.Identity.Application\\TIE.Identity.Application.csproj",
+        "packagesPath": "C:\\Users\\Vincent\\.nuget\\packages\\",
+        "outputPath": "D:\\OneDrive\\Repositories\\TIE\\TIE.Identity\\TIE.Identity.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Vincent\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\OneDrive\\Repositories\\TIE\\TIE.Identity\\TIE.Identity.Contracts\\TIE.Identity.Contracts.csproj": {
+                "projectPath": "D:\\OneDrive\\Repositories\\TIE\\TIE.Identity\\TIE.Identity.Contracts\\TIE.Identity.Contracts.csproj"
+              },
+              "D:\\OneDrive\\Repositories\\TIE\\TIE.Identity\\TIE.Identity.Domain\\TIE.Identity.Domain.csproj": {
+                "projectPath": "D:\\OneDrive\\Repositories\\TIE\\TIE.Identity\\TIE.Identity.Domain\\TIE.Identity.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Users\\Vincent\\.dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\OneDrive\\Repositories\\TIE\\TIE.Identity\\TIE.Identity.BackgroundWorker\\TIE.Identity.BackgroundWorker.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\OneDrive\\Repositories\\TIE\\TIE.Identity\\TIE.Identity.BackgroundWorker\\TIE.Identity.BackgroundWorker.csproj",
+        "projectName": "TIE.Identity.BackgroundWorker",
+        "projectPath": "D:\\OneDrive\\Repositories\\TIE\\TIE.Identity\\TIE.Identity.BackgroundWorker\\TIE.Identity.BackgroundWorker.csproj",
+        "packagesPath": "C:\\Users\\Vincent\\.nuget\\packages\\",
+        "outputPath": "D:\\OneDrive\\Repositories\\TIE\\TIE.Identity\\TIE.Identity.BackgroundWorker\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Vincent\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\OneDrive\\Repositories\\TIE\\TIE.Identity\\TIE.Identity.CompositionRoot\\TIE.Identity.CompositionRoot.csproj": {
+                "projectPath": "D:\\OneDrive\\Repositories\\TIE\\TIE.Identity\\TIE.Identity.CompositionRoot\\TIE.Identity.CompositionRoot.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Users\\Vincent\\.dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\OneDrive\\Repositories\\TIE\\TIE.Identity\\TIE.Identity.CompositionRoot\\TIE.Identity.CompositionRoot.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\OneDrive\\Repositories\\TIE\\TIE.Identity\\TIE.Identity.CompositionRoot\\TIE.Identity.CompositionRoot.csproj",
+        "projectName": "TIE.Identity.CompositionRoot",
+        "projectPath": "D:\\OneDrive\\Repositories\\TIE\\TIE.Identity\\TIE.Identity.CompositionRoot\\TIE.Identity.CompositionRoot.csproj",
+        "packagesPath": "C:\\Users\\Vincent\\.nuget\\packages\\",
+        "outputPath": "D:\\OneDrive\\Repositories\\TIE\\TIE.Identity\\TIE.Identity.CompositionRoot\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Vincent\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\OneDrive\\Repositories\\TIE\\TIE.Identity\\TIE.Identity.Application\\TIE.Identity.Application.csproj": {
+                "projectPath": "D:\\OneDrive\\Repositories\\TIE\\TIE.Identity\\TIE.Identity.Application\\TIE.Identity.Application.csproj"
+              },
+              "D:\\OneDrive\\Repositories\\TIE\\TIE.Identity\\TIE.Identity.Infrastructure\\TIE.Identity.Infrastructure.csproj": {
+                "projectPath": "D:\\OneDrive\\Repositories\\TIE\\TIE.Identity\\TIE.Identity.Infrastructure\\TIE.Identity.Infrastructure.csproj"
+              },
+              "D:\\OneDrive\\Repositories\\TIE\\TIE.Identity\\TIE.Identity.Persistence\\TIE.Identity.Persistence.csproj": {
+                "projectPath": "D:\\OneDrive\\Repositories\\TIE\\TIE.Identity\\TIE.Identity.Persistence\\TIE.Identity.Persistence.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "Microsoft.Extensions.Hosting.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Users\\Vincent\\.dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\OneDrive\\Repositories\\TIE\\TIE.Identity\\TIE.Identity.Contracts\\TIE.Identity.Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\OneDrive\\Repositories\\TIE\\TIE.Identity\\TIE.Identity.Contracts\\TIE.Identity.Contracts.csproj",
+        "projectName": "TIE.Identity.Contracts",
+        "projectPath": "D:\\OneDrive\\Repositories\\TIE\\TIE.Identity\\TIE.Identity.Contracts\\TIE.Identity.Contracts.csproj",
+        "packagesPath": "C:\\Users\\Vincent\\.nuget\\packages\\",
+        "outputPath": "D:\\OneDrive\\Repositories\\TIE\\TIE.Identity\\TIE.Identity.Contracts\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Vincent\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Users\\Vincent\\.dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\OneDrive\\Repositories\\TIE\\TIE.Identity\\TIE.Identity.Domain\\TIE.Identity.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\OneDrive\\Repositories\\TIE\\TIE.Identity\\TIE.Identity.Domain\\TIE.Identity.Domain.csproj",
+        "projectName": "TIE.Identity.Domain",
+        "projectPath": "D:\\OneDrive\\Repositories\\TIE\\TIE.Identity\\TIE.Identity.Domain\\TIE.Identity.Domain.csproj",
+        "packagesPath": "C:\\Users\\Vincent\\.nuget\\packages\\",
+        "outputPath": "D:\\OneDrive\\Repositories\\TIE\\TIE.Identity\\TIE.Identity.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Vincent\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Users\\Vincent\\.dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\OneDrive\\Repositories\\TIE\\TIE.Identity\\TIE.Identity.Infrastructure\\TIE.Identity.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\OneDrive\\Repositories\\TIE\\TIE.Identity\\TIE.Identity.Infrastructure\\TIE.Identity.Infrastructure.csproj",
+        "projectName": "TIE.Identity.Infrastructure",
+        "projectPath": "D:\\OneDrive\\Repositories\\TIE\\TIE.Identity\\TIE.Identity.Infrastructure\\TIE.Identity.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Vincent\\.nuget\\packages\\",
+        "outputPath": "D:\\OneDrive\\Repositories\\TIE\\TIE.Identity\\TIE.Identity.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Vincent\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\OneDrive\\Repositories\\TIE\\TIE.Identity\\TIE.Identity.Application\\TIE.Identity.Application.csproj": {
+                "projectPath": "D:\\OneDrive\\Repositories\\TIE\\TIE.Identity\\TIE.Identity.Application\\TIE.Identity.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Users\\Vincent\\.dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\OneDrive\\Repositories\\TIE\\TIE.Identity\\TIE.Identity.Persistence\\TIE.Identity.Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\OneDrive\\Repositories\\TIE\\TIE.Identity\\TIE.Identity.Persistence\\TIE.Identity.Persistence.csproj",
+        "projectName": "TIE.Identity.Persistence",
+        "projectPath": "D:\\OneDrive\\Repositories\\TIE\\TIE.Identity\\TIE.Identity.Persistence\\TIE.Identity.Persistence.csproj",
+        "packagesPath": "C:\\Users\\Vincent\\.nuget\\packages\\",
+        "outputPath": "D:\\OneDrive\\Repositories\\TIE\\TIE.Identity\\TIE.Identity.Persistence\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Vincent\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\OneDrive\\Repositories\\TIE\\TIE.Identity\\TIE.Identity.Application\\TIE.Identity.Application.csproj": {
+                "projectPath": "D:\\OneDrive\\Repositories\\TIE\\TIE.Identity\\TIE.Identity.Application\\TIE.Identity.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Users\\Vincent\\.dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

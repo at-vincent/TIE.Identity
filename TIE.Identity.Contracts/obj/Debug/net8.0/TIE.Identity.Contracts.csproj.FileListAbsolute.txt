@@ -1,0 +1,11 @@
+D:\OneDrive\Repositories\TIE\TIE.Identity\TIE.Identity.Contracts\bin\Debug\net8.0\TIE.Identity.Contracts.deps.json
+D:\OneDrive\Repositories\TIE\TIE.Identity\TIE.Identity.Contracts\bin\Debug\net8.0\TIE.Identity.Contracts.dll
+D:\OneDrive\Repositories\TIE\TIE.Identity\TIE.Identity.Contracts\bin\Debug\net8.0\TIE.Identity.Contracts.pdb
+D:\OneDrive\Repositories\TIE\TIE.Identity\TIE.Identity.Contracts\obj\Debug\net8.0\TIE.Identity.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Repositories\TIE\TIE.Identity\TIE.Identity.Contracts\obj\Debug\net8.0\TIE.Identity.Contracts.AssemblyInfoInputs.cache
+D:\OneDrive\Repositories\TIE\TIE.Identity\TIE.Identity.Contracts\obj\Debug\net8.0\TIE.Identity.Contracts.AssemblyInfo.cs
+D:\OneDrive\Repositories\TIE\TIE.Identity\TIE.Identity.Contracts\obj\Debug\net8.0\TIE.Identity.Contracts.csproj.CoreCompileInputs.cache
+D:\OneDrive\Repositories\TIE\TIE.Identity\TIE.Identity.Contracts\obj\Debug\net8.0\TIE.Identity.Contracts.dll
+D:\OneDrive\Repositories\TIE\TIE.Identity\TIE.Identity.Contracts\obj\Debug\net8.0\refint\TIE.Identity.Contracts.dll
+D:\OneDrive\Repositories\TIE\TIE.Identity\TIE.Identity.Contracts\obj\Debug\net8.0\TIE.Identity.Contracts.pdb
+D:\OneDrive\Repositories\TIE\TIE.Identity\TIE.Identity.Contracts\obj\Debug\net8.0\ref\TIE.Identity.Contracts.dll

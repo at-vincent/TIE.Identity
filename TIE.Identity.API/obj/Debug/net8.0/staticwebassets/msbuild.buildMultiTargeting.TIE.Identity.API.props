@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\TIE.Identity.API.props" />
+</Project>
